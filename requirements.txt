@@ -1,0 +1,6 @@
+altair
+click
+streamlit
+pandas
+protobuf
+vega-datasets
