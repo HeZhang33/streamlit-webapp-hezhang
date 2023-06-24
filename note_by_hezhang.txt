@@ -1,1 +1,8 @@
-this is modified by he zhang
+Note - He Zhang - June 2023
+--------------------------- 
+
+1. This repo. is modified from the repo: https://github.com/benalexkeen/streamlit-azure-app-services.
+
+2. I have cloned it into HeZhang33 repo: https://github.com/HeZhang33/streamlit-webapp-hezhang, where I changed the repo url in "azuredeploy.json" and "azuredeploy.parameters.json" accordingly.
+
+3. You can directly click the "Deploy To Azure" button in my repo., and fill in necessary resource group names etc. to start the web app. 
